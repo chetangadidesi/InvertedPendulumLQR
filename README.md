@@ -1,6 +1,8 @@
 # Inverted Pendulum Simulation using Discrete-Time LQR
 This project simulates the control of a classic inverted pendulum on a cart system using a Discrete-Time Linear Quadratic Regulator (LQR) in Python. The simulation demonstrates how optimal control techniques can be used to stabilize an inherently unstable system. The LQR controller calculates the optimal control input to keep the pendulum upright while minimizing a quadratic cost function.
 
+<img src = "polelqr.png">
+
 # Features
 - Accurate state-space modeling of the inverted pendulum system
 - Real-time simulation and visualization using matplotlib
